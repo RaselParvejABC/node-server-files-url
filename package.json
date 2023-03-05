@@ -1,0 +1,11 @@
+{
+  "name": "node-server-files-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "nodemon index.js"
+  },
+  "author": "Muhammad Rasel Parvej",
+  "license": "ISC"
+}
